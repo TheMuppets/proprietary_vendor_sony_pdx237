@@ -472,7 +472,6 @@ PRODUCT_PACKAGES += \
     camera.qcom \
     com.qti.chi.offline \
     com.qti.chi.override \
-    libSNPE \
     libSnpeHtpPrepare \
     libaidenoiser \
     libaidenoiserv2 \
